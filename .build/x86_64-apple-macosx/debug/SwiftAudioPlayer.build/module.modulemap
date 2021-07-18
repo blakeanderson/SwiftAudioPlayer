@@ -1,0 +1,4 @@
+module SwiftAudioPlayer {
+    header "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/SwiftAudioPlayer-Swift.h"
+    requires objc
+}

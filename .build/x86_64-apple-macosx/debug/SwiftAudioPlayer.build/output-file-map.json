@@ -1,0 +1,239 @@
+{
+  "": {
+    "swift-dependencies": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/master.swiftdeps"
+  },
+  "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/Sources/Directors/AudioClockDirector.swift": {
+    "dependencies": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Directors/AudioClockDirector.d",
+    "object": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Directors/AudioClockDirector.swift.o",
+    "swiftmodule": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Directors/AudioClockDirector~partial.swiftmodule",
+    "swift-dependencies": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Directors/AudioClockDirector.swiftdeps"
+  },
+  "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/Sources/Directors/AudioQueueDirector.swift": {
+    "dependencies": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Directors/AudioQueueDirector.d",
+    "object": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Directors/AudioQueueDirector.swift.o",
+    "swiftmodule": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Directors/AudioQueueDirector~partial.swiftmodule",
+    "swift-dependencies": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Directors/AudioQueueDirector.swiftdeps"
+  },
+  "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/Sources/Directors/DownloadProgressDirector.swift": {
+    "dependencies": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Directors/DownloadProgressDirector.d",
+    "object": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Directors/DownloadProgressDirector.swift.o",
+    "swiftmodule": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Directors/DownloadProgressDirector~partial.swiftmodule",
+    "swift-dependencies": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Directors/DownloadProgressDirector.swiftdeps"
+  },
+  "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/Sources/Directors/StreamingDownloadDirector.swift": {
+    "dependencies": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Directors/StreamingDownloadDirector.d",
+    "object": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Directors/StreamingDownloadDirector.swift.o",
+    "swiftmodule": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Directors/StreamingDownloadDirector~partial.swiftmodule",
+    "swift-dependencies": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Directors/StreamingDownloadDirector.swiftdeps"
+  },
+  "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/Sources/Engine/AudioDiskEngine.swift": {
+    "dependencies": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Engine/AudioDiskEngine.d",
+    "object": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Engine/AudioDiskEngine.swift.o",
+    "swiftmodule": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Engine/AudioDiskEngine~partial.swiftmodule",
+    "swift-dependencies": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Engine/AudioDiskEngine.swiftdeps"
+  },
+  "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/Sources/Engine/AudioEngine.swift": {
+    "dependencies": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Engine/AudioEngine.d",
+    "object": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Engine/AudioEngine.swift.o",
+    "swiftmodule": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Engine/AudioEngine~partial.swiftmodule",
+    "swift-dependencies": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Engine/AudioEngine.swiftdeps"
+  },
+  "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/Sources/Engine/AudioStreamEngine.swift": {
+    "dependencies": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Engine/AudioStreamEngine.d",
+    "object": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Engine/AudioStreamEngine.swift.o",
+    "swiftmodule": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Engine/AudioStreamEngine~partial.swiftmodule",
+    "swift-dependencies": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Engine/AudioStreamEngine.swiftdeps"
+  },
+  "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/Sources/Engine/AudioThrottler.swift": {
+    "dependencies": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Engine/AudioThrottler.d",
+    "object": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Engine/AudioThrottler.swift.o",
+    "swiftmodule": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Engine/AudioThrottler~partial.swiftmodule",
+    "swift-dependencies": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Engine/AudioThrottler.swiftdeps"
+  },
+  "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/Sources/Engine/Converter/AudioConverter.swift": {
+    "dependencies": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Engine/Converter/AudioConverter.d",
+    "object": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Engine/Converter/AudioConverter.swift.o",
+    "swiftmodule": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Engine/Converter/AudioConverter~partial.swiftmodule",
+    "swift-dependencies": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Engine/Converter/AudioConverter.swiftdeps"
+  },
+  "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/Sources/Engine/Converter/AudioConverterErrors.swift": {
+    "dependencies": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Engine/Converter/AudioConverterErrors.d",
+    "object": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Engine/Converter/AudioConverterErrors.swift.o",
+    "swiftmodule": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Engine/Converter/AudioConverterErrors~partial.swiftmodule",
+    "swift-dependencies": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Engine/Converter/AudioConverterErrors.swiftdeps"
+  },
+  "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/Sources/Engine/Converter/AudioConverterListener.swift": {
+    "dependencies": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Engine/Converter/AudioConverterListener.d",
+    "object": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Engine/Converter/AudioConverterListener.swift.o",
+    "swiftmodule": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Engine/Converter/AudioConverterListener~partial.swiftmodule",
+    "swift-dependencies": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Engine/Converter/AudioConverterListener.swiftdeps"
+  },
+  "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/Sources/Engine/Parser/AudioParsable.swift": {
+    "dependencies": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Engine/Parser/AudioParsable.d",
+    "object": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Engine/Parser/AudioParsable.swift.o",
+    "swiftmodule": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Engine/Parser/AudioParsable~partial.swiftmodule",
+    "swift-dependencies": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Engine/Parser/AudioParsable.swiftdeps"
+  },
+  "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/Sources/Engine/Parser/AudioParser.swift": {
+    "dependencies": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Engine/Parser/AudioParser.d",
+    "object": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Engine/Parser/AudioParser.swift.o",
+    "swiftmodule": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Engine/Parser/AudioParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Engine/Parser/AudioParser.swiftdeps"
+  },
+  "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/Sources/Engine/Parser/AudioParserErrors.swift": {
+    "dependencies": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Engine/Parser/AudioParserErrors.d",
+    "object": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Engine/Parser/AudioParserErrors.swift.o",
+    "swiftmodule": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Engine/Parser/AudioParserErrors~partial.swiftmodule",
+    "swift-dependencies": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Engine/Parser/AudioParserErrors.swiftdeps"
+  },
+  "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/Sources/Engine/Parser/AudioParserPacketListener.swift": {
+    "dependencies": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Engine/Parser/AudioParserPacketListener.d",
+    "object": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Engine/Parser/AudioParserPacketListener.swift.o",
+    "swiftmodule": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Engine/Parser/AudioParserPacketListener~partial.swiftmodule",
+    "swift-dependencies": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Engine/Parser/AudioParserPacketListener.swiftdeps"
+  },
+  "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/Sources/Engine/Parser/AudioParserPropertyListener.swift": {
+    "dependencies": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Engine/Parser/AudioParserPropertyListener.d",
+    "object": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Engine/Parser/AudioParserPropertyListener.swift.o",
+    "swiftmodule": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Engine/Parser/AudioParserPropertyListener~partial.swiftmodule",
+    "swift-dependencies": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Engine/Parser/AudioParserPropertyListener.swiftdeps"
+  },
+  "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/Sources/Engine/SAAudioAvailabilityRange.swift": {
+    "dependencies": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Engine/SAAudioAvailabilityRange.d",
+    "object": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Engine/SAAudioAvailabilityRange.swift.o",
+    "swiftmodule": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Engine/SAAudioAvailabilityRange~partial.swiftmodule",
+    "swift-dependencies": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Engine/SAAudioAvailabilityRange.swiftdeps"
+  },
+  "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/Sources/Engine/SAPlayingStatus.swift": {
+    "dependencies": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Engine/SAPlayingStatus.d",
+    "object": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Engine/SAPlayingStatus.swift.o",
+    "swiftmodule": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Engine/SAPlayingStatus~partial.swiftmodule",
+    "swift-dependencies": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Engine/SAPlayingStatus.swiftdeps"
+  },
+  "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/Sources/LockScreenViewProtocol.swift": {
+    "dependencies": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/LockScreenViewProtocol.d",
+    "object": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/LockScreenViewProtocol.swift.o",
+    "swiftmodule": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/LockScreenViewProtocol~partial.swiftmodule",
+    "swift-dependencies": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/LockScreenViewProtocol.swiftdeps"
+  },
+  "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/Sources/Model/AudioDataManager.swift": {
+    "dependencies": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Model/AudioDataManager.d",
+    "object": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Model/AudioDataManager.swift.o",
+    "swiftmodule": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Model/AudioDataManager~partial.swiftmodule",
+    "swift-dependencies": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Model/AudioDataManager.swiftdeps"
+  },
+  "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/Sources/Model/AudioQueue.swift": {
+    "dependencies": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Model/AudioQueue.d",
+    "object": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Model/AudioQueue.swift.o",
+    "swiftmodule": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Model/AudioQueue~partial.swiftmodule",
+    "swift-dependencies": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Model/AudioQueue.swiftdeps"
+  },
+  "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/Sources/Model/Downloading/AudioDownloadWorker.swift": {
+    "dependencies": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Model/Downloading/AudioDownloadWorker.d",
+    "object": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Model/Downloading/AudioDownloadWorker.swift.o",
+    "swiftmodule": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Model/Downloading/AudioDownloadWorker~partial.swiftmodule",
+    "swift-dependencies": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Model/Downloading/AudioDownloadWorker.swiftdeps"
+  },
+  "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/Sources/Model/Downloading/FileStorage.swift": {
+    "dependencies": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Model/Downloading/FileStorage.d",
+    "object": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Model/Downloading/FileStorage.swift.o",
+    "swiftmodule": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Model/Downloading/FileStorage~partial.swiftmodule",
+    "swift-dependencies": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Model/Downloading/FileStorage.swiftdeps"
+  },
+  "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/Sources/Model/StreamProgressPTO.swift": {
+    "dependencies": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Model/StreamProgressPTO.d",
+    "object": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Model/StreamProgressPTO.swift.o",
+    "swiftmodule": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Model/StreamProgressPTO~partial.swiftmodule",
+    "swift-dependencies": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Model/StreamProgressPTO.swiftdeps"
+  },
+  "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/Sources/Model/Streaming/AudioStreamWorker.swift": {
+    "dependencies": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Model/Streaming/AudioStreamWorker.d",
+    "object": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Model/Streaming/AudioStreamWorker.swift.o",
+    "swiftmodule": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Model/Streaming/AudioStreamWorker~partial.swiftmodule",
+    "swift-dependencies": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Model/Streaming/AudioStreamWorker.swiftdeps"
+  },
+  "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/Sources/Model/Streaming/StreamProgressDTO.swift": {
+    "dependencies": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Model/Streaming/StreamProgressDTO.d",
+    "object": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Model/Streaming/StreamProgressDTO.swift.o",
+    "swiftmodule": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Model/Streaming/StreamProgressDTO~partial.swiftmodule",
+    "swift-dependencies": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Model/Streaming/StreamProgressDTO.swiftdeps"
+  },
+  "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/Sources/SALockScreenInfo.swift": {
+    "dependencies": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/SALockScreenInfo.d",
+    "object": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/SALockScreenInfo.swift.o",
+    "swiftmodule": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/SALockScreenInfo~partial.swiftmodule",
+    "swift-dependencies": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/SALockScreenInfo.swiftdeps"
+  },
+  "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/Sources/SAPlayer.swift": {
+    "dependencies": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/SAPlayer.d",
+    "object": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/SAPlayer.swift.o",
+    "swiftmodule": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/SAPlayer~partial.swiftmodule",
+    "swift-dependencies": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/SAPlayer.swiftdeps"
+  },
+  "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/Sources/SAPlayerDelegate.swift": {
+    "dependencies": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/SAPlayerDelegate.d",
+    "object": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/SAPlayerDelegate.swift.o",
+    "swiftmodule": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/SAPlayerDelegate~partial.swiftmodule",
+    "swift-dependencies": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/SAPlayerDelegate.swiftdeps"
+  },
+  "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/Sources/SAPlayerDownloader.swift": {
+    "dependencies": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/SAPlayerDownloader.d",
+    "object": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/SAPlayerDownloader.swift.o",
+    "swiftmodule": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/SAPlayerDownloader~partial.swiftmodule",
+    "swift-dependencies": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/SAPlayerDownloader.swiftdeps"
+  },
+  "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/Sources/SAPlayerFeatures.swift": {
+    "dependencies": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/SAPlayerFeatures.d",
+    "object": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/SAPlayerFeatures.swift.o",
+    "swiftmodule": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/SAPlayerFeatures~partial.swiftmodule",
+    "swift-dependencies": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/SAPlayerFeatures.swiftdeps"
+  },
+  "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/Sources/SAPlayerPresenter.swift": {
+    "dependencies": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/SAPlayerPresenter.d",
+    "object": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/SAPlayerPresenter.swift.o",
+    "swiftmodule": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/SAPlayerPresenter~partial.swiftmodule",
+    "swift-dependencies": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/SAPlayerPresenter.swiftdeps"
+  },
+  "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/Sources/SAPlayerUpdateSubscription.swift": {
+    "dependencies": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/SAPlayerUpdateSubscription.d",
+    "object": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/SAPlayerUpdateSubscription.swift.o",
+    "swiftmodule": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/SAPlayerUpdateSubscription~partial.swiftmodule",
+    "swift-dependencies": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/SAPlayerUpdateSubscription.swiftdeps"
+  },
+  "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/Sources/Util/Constants.swift": {
+    "dependencies": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Util/Constants.d",
+    "object": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Util/Constants.swift.o",
+    "swiftmodule": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Util/Constants~partial.swiftmodule",
+    "swift-dependencies": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Util/Constants.swiftdeps"
+  },
+  "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/Sources/Util/Data.swift": {
+    "dependencies": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Util/Data.d",
+    "object": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Util/Data.swift.o",
+    "swiftmodule": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Util/Data~partial.swiftmodule",
+    "swift-dependencies": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Util/Data.swiftdeps"
+  },
+  "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/Sources/Util/Date.swift": {
+    "dependencies": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Util/Date.d",
+    "object": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Util/Date.swift.o",
+    "swiftmodule": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Util/Date~partial.swiftmodule",
+    "swift-dependencies": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Util/Date.swiftdeps"
+  },
+  "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/Sources/Util/DirectorThreadSafeClosures.swift": {
+    "dependencies": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Util/DirectorThreadSafeClosures.d",
+    "object": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Util/DirectorThreadSafeClosures.swift.o",
+    "swiftmodule": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Util/DirectorThreadSafeClosures~partial.swiftmodule",
+    "swift-dependencies": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Util/DirectorThreadSafeClosures.swiftdeps"
+  },
+  "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/Sources/Util/Log.swift": {
+    "dependencies": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Util/Log.d",
+    "object": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Util/Log.swift.o",
+    "swiftmodule": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Util/Log~partial.swiftmodule",
+    "swift-dependencies": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Util/Log.swiftdeps"
+  },
+  "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/Sources/Util/URL.swift": {
+    "dependencies": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Util/URL.d",
+    "object": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Util/URL.swift.o",
+    "swiftmodule": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Util/URL~partial.swiftmodule",
+    "swift-dependencies": "/Users/blake/Development/Personal/SwiftAudioPlayer-fork/SwiftAudioPlayer/.build/x86_64-apple-macosx/debug/SwiftAudioPlayer.build/Util/URL.swiftdeps"
+  }
+}

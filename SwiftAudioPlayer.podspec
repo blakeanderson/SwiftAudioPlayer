@@ -30,7 +30,7 @@ SwiftAudioPlayer is a Swift based audio player that can handle streaming from a 
 
   s.ios.deployment_target = '10.0'
 
-  s.source_files = 'Source/**/*'
+  s.source_files = 'Sources/**/*'
   s.swift_version = '5.0'
   
   # s.resource_bundles = {
